@@ -6,8 +6,6 @@
 
 I build AI applications and tools that automate work.
 
-I build the interface, backend, tests, and release checks.
-
 ## Start here
 
 | Project | What it shows |
