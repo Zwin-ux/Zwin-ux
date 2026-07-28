@@ -1,5 +1,7 @@
 <img src="assets/automation-workbench.webp" alt="A camera rig, automation workflow, and shipping tools sharing one workbench" width="100%" />
 
+<!-- Public profile source -->
+
 # Mazen Zwin
 
 AI applications, workflow automation, and product engineering in Los Angeles.
