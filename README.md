@@ -21,4 +21,4 @@ I build AI applications and tools that automate work.
 
 I make interfaces clear. I keep system limits visible. I test failures that users can see.
 
-I live in the Los Angeles area. I am open to onsite roles in AI applications, automation, and product engineering.
+IE | LA area
