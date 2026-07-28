@@ -4,26 +4,24 @@
 
 # Mazen Zwin
 
-AI applications, workflow automation, and product engineering in Los Angeles.
+I build AI applications and tools that automate work.
 
-I build the whole loop: interface, backend, evaluation, release checks, and the unglamorous automation that keeps a product dependable.
+I build the interface, backend, tests, and release checks.
 
 ## Start here
 
-| Project | What it proves |
+| Project | What it shows |
 | --- | --- |
-| [**ScriptLens**](https://github.com/Zwin-ux/scriptlens) | A local-first Chrome extension with deterministic transcript analysis, Playwright coverage, packaging gates, and an optional recovery backend. |
-| [**SBA Copilot**](https://github.com/Zwin-ux/SBA-LLM) | Retrieval, reranking, cited answers, underwriting tools, a FastAPI surface, and an evaluation harness. |
-| [**SBA Capital Watch**](https://github.com/Zwin-ux/SBA-Analysis) | A Python/PostgreSQL pipeline that cleans and analyzes 467,294 public lending records behind a Streamlit dashboard. |
-| [**Kit**](https://github.com/Zwin-ux/kit) | A tested TypeScript CLI and terminal UI for installing and maintaining portable agent skills across coding tools. |
-| [**Guardian**](https://github.com/Zwin-ux/guardian) | A dependency-free command firewall and definition-of-done gate, backed by 50 allow/block fixtures. |
+| [**ScriptLens**](https://github.com/Zwin-ux/scriptlens) | This Chrome extension analyzes YouTube transcripts on the device. It includes Playwright tests, package checks, and an optional recovery service. |
+| [**SBA Copilot**](https://github.com/Zwin-ux/SBA-LLM) | This app retrieves policy text and gives cited answers. It also has underwriting tools, a FastAPI service, and evaluation cases. |
+| [**SBA Capital Watch**](https://github.com/Zwin-ux/SBA-Analysis) | This Python and PostgreSQL pipeline analyzes 467,294 public loan records. A Streamlit dashboard shows the results. |
+| [**Kit**](https://github.com/Zwin-ux/kit) | This TypeScript command-line tool manages agent skills for Claude, Codex, and Grok. Its test suite has 99 passing tests. |
+| [**Guardian**](https://github.com/Zwin-ux/guardian) | This tool blocks unsafe agent commands. It also checks work before an agent stops. Its test suite has 50 cases. |
 
-## Working range
+## Tools I use
 
-`TypeScript / JavaScript` · `Python` · `FastAPI` · `Playwright` · `PostgreSQL / SQL` · `RAG + evaluation` · `Chrome MV3` · `CI and release automation`
+`TypeScript / JavaScript` | `Python` | `FastAPI` | `Playwright` | `PostgreSQL / SQL` | `RAG and evaluation` | `Chrome MV3` | `CI and release automation`
 
-I care about useful interfaces, legible systems, honest boundaries, and tests that catch the failure users will actually notice.
+I make interfaces clear. I keep system limits visible. I test failures that users can see.
 
-Based in greater Los Angeles and open to onsite AI applications, automation, and product engineering roles.
-
-> The generated avatar option used for this refresh is available at [`assets/avatar-option-800.png`](assets/avatar-option-800.png).
+I live in the Los Angeles area. I am open to onsite roles in AI applications, automation, and product engineering.
