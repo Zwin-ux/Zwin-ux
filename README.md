@@ -11,7 +11,6 @@ I build AI applications and tools that automate work.
 | Project | What it shows |
 | --- | --- |
 | [**ScriptLens**](https://github.com/Zwin-ux/scriptlens) | This Chrome extension analyzes YouTube transcripts on the device. It includes Playwright tests, package checks, and an optional recovery service. |
-| [**SBA Copilot**](https://github.com/Zwin-ux/SBA-LLM) | This app retrieves policy text and gives cited answers. It also has underwriting tools, a FastAPI service, and evaluation cases. |
 | [**SBA Capital Watch**](https://github.com/Zwin-ux/SBA-Analysis) | This Python and PostgreSQL pipeline analyzes 467,294 public loan records. A Streamlit dashboard shows the results. |
 | [**Kit**](https://github.com/Zwin-ux/kit) | This TypeScript command-line tool manages agent skills for Claude, Codex, and Grok. Its test suite has 99 passing tests. |
 | [**Guardian**](https://github.com/Zwin-ux/guardian) | This tool blocks unsafe agent commands. It also checks work before an agent stops. Its test suite has 50 cases. |
