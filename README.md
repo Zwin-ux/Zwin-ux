@@ -12,7 +12,7 @@ I build AI applications and tools that automate work.
 | --- | --- |
 | [**ScriptLens**](https://github.com/Zwin-ux/scriptlens) | This Chrome extension analyzes YouTube transcripts on the device. It includes Playwright tests, package checks, and an optional recovery service. |
 | [**SBA Capital Watch**](https://github.com/Zwin-ux/SBA-Analysis) | This Python and PostgreSQL pipeline analyzes 467,294 public loan records. A Streamlit dashboard shows the results. |
-| [**Kit**](https://github.com/Zwin-ux/kit) | This TypeScript command-line tool manages agent skills for Claude, Codex, and Grok. Its test suite has 99 passing tests. |
+| [**Kit**](https://github.com/Zwin-ux/kit) | This TypeScript CLI manages agent skills and local CLI plugins. Its proof runs the compiled Trenchwire binary with offline market data. It has 103 unit tests and CLI smoke checks. |
 | [**Guardian**](https://github.com/Zwin-ux/guardian) | This tool blocks unsafe agent commands. It also checks work before an agent stops. Its test suite has 50 cases. |
 
 ## Tools I use
